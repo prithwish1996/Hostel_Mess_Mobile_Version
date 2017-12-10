@@ -1,0 +1,365 @@
+@media screen and (min-width: 768px){
+
+  #applogin{
+    text-align: center;
+    border:3px solid grey;
+    background-color: grey;
+    width:500px;
+    border-radius: 25px;
+    margin-left:33%;
+    align-content: center;
+    margin-top: 5%;
+    padding: 1%;
+    padding-right: 3%;
+    background: rgba(0, 0, 0, 0.9);
+  }
+  .wrapper{
+  font-size: 120%;
+    color: white;
+    font-weight: bold;
+  }
+  .btn-primary,
+  .btn-primary:hover,
+  .btn-primary:active,
+  .btn-primary:visited,
+  .btn-primary:focus {
+    background-color: #303030 ;
+    border-color: #808080;
+      font-size: 90%;
+      margin-right: 15%;
+      margin-left: 10%;
+      margin-top: 2%;
+
+
+  }
+  .btn-success,
+  .btn-success:active,
+  .btn-success:visited,
+  .btn-success:focus {
+    background-color: #303030 ;
+    border-color: #808080;
+      font-size: 90%;
+      margin-right: 15%;
+      margin-left: 10%;
+      margin-top: 2%;
+       width: 18%;
+       font-weight: bold;
+
+
+  }
+  .btn-success:hover{
+    background-color: #181818  ;
+    border-color: white;
+    cursor:pointer;
+  }
+  .btn-primary:hover{
+    background-color: #181818  ;
+    border-color: white;
+    cursor:pointer;
+  }
+  .background {
+      background:url(bg.jpg);
+      /*background-size:cover;*/
+      position: fixed;
+      /*z-index: -1;*/
+      /*top: 0;*/
+      /*bottom: 0;
+      left: 0;
+      right: 0;*/
+      opacity: 0.6;
+      width: 100%;
+      height: 800px;
+
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+  }
+table{
+  opacity: 1;
+  margin-left: 35%;
+  margin-top: 15%;
+  font-weight: bold;
+  color:black;
+
+  /*background-color: #000000;*/
+  /*z-index:1;*/
+}
+  #join,#nj,#lc{
+    margin-top: 8%;
+    margin-left: 25%;
+
+  }
+  #reduction,#lj,#nc{
+    margin-left: 55%;
+    margin-top: -8%;
+
+  }
+  #milkjoin{
+margin-left: 25%;
+margin-top: -5%;
+  }
+  #vd{
+margin-left: 40%;
+margin-top: -12%;
+  }
+  #cp{
+margin-left: 25%;
+margin-top: -10%;
+  }
+  #vpp{
+margin-left: 55%;
+margin-top: -29%;
+margin-top: -17%;
+  }
+#coupon{
+  margin-left: 55%;
+  margin-top: -12%;
+
+}
+#menuchoice{
+  text-align: center;
+  border:3px solid grey;
+  background-color: grey;
+  width:500px;
+  border-radius: 25px;
+  margin-left:33%;
+  align-content: center;
+  margin-top: 10%;
+  padding: 1%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  padding-right: 3%;
+  color:white;
+  font-weight: bold;
+  background: rgba(0, 0, 0, 0.9);
+}
+#pass{
+  text-align: center;
+  border:3px solid grey;
+  background-color: grey;
+  width:500px;
+  border-radius: 25px;
+  margin-left:33%;
+  align-content: center;
+  margin-top: 8%;
+  padding: 1%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  padding-right: 3%;
+  color:white;
+  font-weight: bold;
+  background: rgba(0, 0, 0, 0.9);
+}
+#appcoupon{
+  text-align: center;
+  border:3px solid grey;
+  background-color: grey;
+  width:500px;
+  border-radius: 25px;
+  margin-left:33%;
+  align-content: center;
+  margin-top: 7%;
+  padding: 1%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  padding-right: 3%;
+  padding-left: 2%;
+  color:white;
+  font-weight: bold;
+  background: rgba(0, 0, 0, 0.9);
+
+/*Style*/
+}}
+@media screen and (min-width : 0px) and (max-width : 767px){
+
+/*Style*/
+#applogin{
+  text-align: center;
+  border:3px solid grey;
+  background-color: #080808;
+  /*width:auto;*/
+  border-radius: 25px;
+  margin-left:13%;
+  margin-right: 13%;
+  align-content: center;
+  margin-top: 30%;
+  padding-right: 10%;
+  padding-top: 2%;
+
+
+
+  background: rgba(0, 0, 0, 0.9);
+}
+#sl{
+  padding-left: 15%;
+}
+.wrapper{
+  font-size: 80%;
+  color: white;
+  font-weight: bold;
+}
+#options{
+  margin-top: -30%;
+}
+#join,#nj,#lc{
+  margin-top: 50%;
+  /*margin-left: 25%;*/
+
+}
+#reduction,#lj,#nc{
+  /*margin-left: 55%;*/
+
+  margin-top: 0%;
+}
+#milkjoin{
+/*margin-left: 25%;*/
+margin-top: 0%;
+}
+#vd{
+/*margin-left: 40%;*/
+margin-top: 0%;
+margin-bottom: 10%;
+}
+#cp{
+/*margin-left: 25%;*/
+margin-top: 0%;
+}
+#vpp{
+/*margin-left: 55%;*/
+/*margin-top: -29%;*/
+margin-top: 0%;
+}
+#coupon{
+/*margin-left: 55%;*/
+margin-top: 0%;
+
+}
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+  background-color: #303030 ;
+  border-color: #808080;
+    padding: 2%;
+    margin-right: 20%;
+    margin-left: 15%;
+    margin-bottom: 2%;
+    font-size: 110%;
+
+}
+.btn-success,
+.btn-success:active,
+.btn-success:visited,
+.btn-success:focus {
+    background-color: #303030 ;
+    border-color: #808080;
+    font-size: 90%;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-top: 60%;
+     width: 65%;
+     font-weight: bold;
+
+
+}
+.btn-success:hover{
+  background-color: #181818  ;
+  border-color: white;
+  cursor:pointer;
+}
+.btn-primary:hover{
+  background-color: #181818  ;
+  border-color: white;
+  cursor:pointer;
+}
+.background {
+    background:url(bg.jpg);
+    /*background-size:cover;*/
+    position: absolute;
+    /*z-index: -1;*/
+    /*top: 0;*/
+    /*bottom: 0;
+    left: 0;
+    right: 0;*/
+    opacity: .6;
+    width: 100%;
+   height: 600px;
+
+/*background-repeat: repeat-y;*/
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+#menuchoice{
+  text-align: center;
+  border:3px solid grey;
+  background-color: #080808;
+  /*width:auto;*/
+  border-radius: 25px;
+  margin-left:13%;
+  margin-right: 13%;
+  align-content: center;
+  margin-top: 34%;
+  padding-right: 10%;
+  padding-left: 10%;
+  padding-top: 9%;
+  padding-bottom: 10%;
+ color:white;
+ font-weight: bold;
+
+
+  background: rgba(0, 0, 0, 0.9);
+}
+#pass{
+  text-align: center;
+  border:3px solid grey;
+  border-radius: 25px;
+  background-color: #080808;
+  /*width:auto;*/
+  width: 80%;
+  margin-left:10%;
+  margin-right: 13%;
+  align-content: center;
+  margin-top: 32%;
+  padding-right: 12%;
+  padding-left: 10%;
+  padding-top: 9%;
+  padding-bottom: 10%;
+ color:white;
+
+ font-weight: bold;
+
+
+  background: rgba(0, 0, 0, 0.9);
+}
+
+#appcoupon{
+  text-align: center;
+  border:3px solid grey;
+  background-color: #080808;
+  /*width:auto;*/
+  border-radius: 25px;
+  margin-left:0%;
+  /*margin-right: 15%;*/
+  align-content: center;
+  margin-top: 38%;
+  padding-right: 0%;
+  padding-left: 0%;
+  padding-top: 9%;
+  padding-bottom: 10%;
+  /*width:100%;*/
+ color:white;
+ font-weight: bold;
+
+
+  background: rgba(0, 0, 0, 0.9);
+
+/*Style*/
+}
+}
